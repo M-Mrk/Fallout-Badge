@@ -468,20 +468,19 @@
 		(end 135 63)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
-		(fill no)
+		(fill yes)
 		(layer "Edge.Cuts")
 		(uuid "44a09a04-21df-4693-a3c0-e0808dd28bd2")
 	)
-	(gr_text "In Shenzhen,\nChina"
-		(at 129 96 -0)
+	(gr_text "Made in \nShenzhen, China"
+		(at 127 90 0)
 		(layer "B.Cu")
 		(uuid "b28b4d96-bdc1-4944-80ca-803ba664a0aa")
 		(effects
 			(font
-				(size 3 3)
-				(bold yes)
+				(size 2 2)
 			)
 			(justify left bottom mirror)
 		)
